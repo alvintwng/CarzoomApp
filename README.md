@@ -1,6 +1,7 @@
-## CarZoom App
+## Carzoom App
+Ref: https://github.com/alvintwng/learnj
 
-youTube: https://youtu.be/U4V75batZk8 :
+Explanation in youTube, https://youtu.be/U4V75batZk8 :
 
 [![image](img/210518AMinsYoutube.png)](https://youtu.be/U4V75batZk8)
 
