@@ -1,4 +1,11 @@
 ## Carzoom App
+* **Live Demo (Azure)**: http://52.231.70.65:8080
+* **Credentials**: `user`/`user` OR `Marvel`/`marvel`
+* **Description**: The live environment is currently deployed on an Azure Linux VM using Docker Compose to orchestrate the Java Spring application and a **PostgreSQL** database.
+
+
+---
+
 Ref: https://github.com/alvintwng/learnj
 
 Explanation in youTube, https://youtu.be/U4V75batZk8 :
@@ -6,6 +13,7 @@ Explanation in youTube, https://youtu.be/U4V75batZk8 :
 [![image](img/210518AMinsYoutube.png)](https://youtu.be/U4V75batZk8)
 
 #### This application system:
+(The video)
 - based on **Oracle database version 12c**  to store all business data,
 - using **Java version 11**, **Spring Boot Framework**.
 - accessible with Internet browsers, **HerokuApp**, cloud application platform .
@@ -43,7 +51,8 @@ USER: for front desk who serve customers
 
 ---
 ### Deployment
-Deployment at  https://carzoom.herokuapp.com/
+(*Was*)  
+deployed at  https://carzoom.herokuapp.com/
 * If first load fails, please reload again.
 * Explore with the credential: user/ user (subject to change).
 
